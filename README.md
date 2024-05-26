@@ -40,7 +40,8 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 
 ```
 ## Output:
-![mul 1](https://github.com/sameena77/Multivariate-Linear-Regression/assets/155620541/065feb90-d401-4c07-bf91-5d7b92d8bcdd)
+![mul 1](https://github.com/sameena77/Multivariate-Linear-Regression/assets/155620541/7a515c4f-817a-4899-a9dd-4525b0189aa3)
+
 ![mulre](https://github.com/sameena77/Multivariate-Linear-Regression/assets/155620541/d61ecbf5-ec29-4456-8b39-c2e7b87a3a6c)
 
 
