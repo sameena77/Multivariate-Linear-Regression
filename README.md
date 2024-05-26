@@ -1,4 +1,5 @@
-# Implementation of Multivariate Linear Regression
+# Exp:10 Implementation of Multivariate Linear Regression
+# Date: 18.05.2024
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
@@ -22,8 +23,8 @@ Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 
 ## Program:
 ```
 
-Developed by: DIVIYADHARSHINI A
-Reg.No: 22002825
+Developed by: Sameena J
+Reg.No: 2305002019
 import pandas as pd
 from sklearn import linear_model
 df = pd.read_csv("carsemission.csv")
